@@ -1,7 +1,7 @@
 # CAIO COSTA
 
------------
-EXPERIENCIA
--
--
--
+## Experíencias:
+
+- Programador Pleno - Amazon 
+
+- Gerente - Amazon 
